@@ -1,6 +1,6 @@
 {
-  "name": "react-native-af-video-player",
-  "version": "0.2.1",
+  "name": "@datacamp/react-native-af-video-player",
+  "version": "0.2.2",
   "dependencies": {
     "react-native-keep-awake": "^2.0.6",
     "react-native-orientation": "^3.1.0",
